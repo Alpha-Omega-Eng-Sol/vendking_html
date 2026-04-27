@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lphavend.com.np/sitemap-index.xml
+Sitemap: https://vendking.org/sitemap-index.xml
