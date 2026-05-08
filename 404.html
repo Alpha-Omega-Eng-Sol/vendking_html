@@ -31,7 +31,7 @@
           "https://vendking.org"
         ]
       }
-    </script><link rel="stylesheet" href="/_astro/about.BOcR-_5y.css"><script type="module" src="/_astro/hoisted.gbw09gHW.js"></script><style>[data-astro-transition-scope="astro-oiuclbvv-1"] { view-transition-name: astro-oiuclbvv-1; }@layer astro { ::view-transition-old(astro-oiuclbvv-1) { 
+    </script><link rel="stylesheet" href="/_astro/about.D7iQJ4GM.css"><script type="module" src="/_astro/hoisted.gbw09gHW.js"></script><style>[data-astro-transition-scope="astro-oiuclbvv-1"] { view-transition-name: astro-oiuclbvv-1; }@layer astro { ::view-transition-old(astro-oiuclbvv-1) { 
 	animation-duration: 0.5s;
 	animation-timing-function: ease-in;
 	animation-fill-mode: forwards;
@@ -104,7 +104,7 @@ Support Us
           io.unobserve(e.target);
         }
       });
-    }, { threshold: 0.08, rootMargin: '0px 0px -48px 0px' });
+    }, { threshold: 0.05, rootMargin: '0px 0px -16px 0px' });
 
     const seen = new WeakSet();
 
@@ -114,7 +114,7 @@ Support Us
         if (seen.has(card)) return;
         seen.add(card);
         card.classList.add('sr');
-        card.style.transitionDelay = (i % 6) * 90 + 'ms';
+        card.style.transitionDelay = (i % 6) * 35 + 'ms';
         io.observe(card);
       });
     });
@@ -124,7 +124,7 @@ Support Us
       if (seen.has(el)) return;
       seen.add(el);
       el.classList.add('sr');
-      el.style.transitionDelay = i * 80 + 'ms';
+      el.style.transitionDelay = i * 30 + 'ms';
       io.observe(el);
     });
   }
