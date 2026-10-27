@@ -1,39 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lphavend.com.np/</loc>
+    <loc>https://vendingking.org/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/applications</loc>
+    <loc>https://vendingking.org/applications</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/models</loc>
+    <loc>https://vendingking.org/models</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/services</loc>
+    <loc>https://vendingking.org/models/vkiosk</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/app</loc>
+    <loc>https://vendingking.org/models/padease</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/blogs</loc>
+    <loc>https://vendingking.org/models/megavend</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vendingking.org/services</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vendingking.org/app</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/about</loc>
+    <loc>https://vendingking.org/blogs</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vendingking.org/about</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/contact</loc>
+    <loc>https://vendingking.org/contact</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://lphavend.com.np/donation</loc>
+    <loc>https://vendingking.org/donation</loc>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vendingking.org/links</loc>
+    <priority>0.5</priority>
   </url>
 </urlset>
